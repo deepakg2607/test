@@ -1,6 +1,1 @@
-{{#user}}
-Name: Deepak Kumar
-Skills: HTML, CSS, JS, React.js, Java, C++, Python
-Email: deepakgupta.261207@gmail.com
-{{/user}}
 
